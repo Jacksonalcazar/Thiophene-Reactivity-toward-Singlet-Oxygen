@@ -1,0 +1,1 @@
+@xyztomol.exe *.xyz -omol -m
