@@ -14,7 +14,7 @@ Before starting, ensure that you have downloaded the code from this repository a
 ### Prepare Your Inputs:
 
 - Inside the "Input for ORCA" folder, find two sub-folders: "Gas" and "Methanol".
-- Choose "Gas" if your objective is to predict thiophene reactivity with singlet oxygen without solvent effect. For predictions in a methanolic environment, use the inputs in "Methanol".
+- Choose "Gas" if your objective is to predict thiophene reactivity toward singlet oxygen without solvent effect. For predictions in a methanolic environment, use the inputs in "Methanol".
 
 ### File Format Requirements:
 
@@ -52,7 +52,7 @@ Before starting, ensure that you have downloaded the code from this repository a
 
 ## Special Feature
 
-The script is specifically designed to identify the structure of thiophene and calculate its reactivity with singlet oxygen, even for compounds containing multiple thiophene units.
+The script is specifically designed to identify the structure of thiophene and calculate its reactivity toward singlet oxygen, even for compounds containing multiple thiophene units.
 
 ## Conclusion
 
