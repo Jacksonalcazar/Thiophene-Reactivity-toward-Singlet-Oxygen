@@ -1,5 +1,7 @@
 # Thiophene Reactivity toward Singlet Oxygen
-GitHub repository guide for predicting thiophene reactivity with singlet oxygen, covering solvent-free and methanol environments. Instructions include file preparation, ORCA installation, structure optimization, and running the script for results.
+GitHub repository guide for predicting thiophene reactivity with singlet oxygen, covering solvent-free and methanol environments. Instructions include file preparation, ORCA installation, structure optimization, and running the script for results. 
+
+NOTE: This script is supported in the following article https://doi.org/10.3390/ijms25052528. If this tool is used, please cite article.
 
 # Introduction
 
